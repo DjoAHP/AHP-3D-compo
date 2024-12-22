@@ -21,9 +21,9 @@ export function Hero() {
           className="text-center text-white"
         >
           <h1 className="text-6xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600">
-            AHP 3D Compo
+            Mes compositions 3D
           </h1>
-          <p className="text-xl text-gray-300">
+          <p className="text-md text-gray-300">
           Passionné de 3D, j'expérimente en détournant des scènes cultes pour créer des compositions surréalistes et décalées, mêlant humour et imagination.
           </p>
         </motion.div>
