@@ -1,8 +1,8 @@
-import React from 'react';
 import { Navigation } from './components/Navigation';
 import { Hero } from './components/Hero';
 import { Gallery } from './components/Gallery';
 import { SocialLinks } from './components/SocialLinks';
+import './index.css';
 
 function App() {
   return (
